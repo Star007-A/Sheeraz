@@ -15,6 +15,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.powerbi.com" target="_blank" rel="noreferrer"> <img 
-src="https://github.com/Star007-A/Sheeraz/assets/80614763/4add2323-d8a3-4408-8149-688b2effa885" alt="Power BI" width="40" height="40"/> </a> </p>
+src="https://github.com/Star007-A/Sheeraz/assets/80614763/4add2323-d8a3-4408-8149-688b2effa885" alt="Power BI" width="40" height="40"/> </a> <a href="https://www.microsoft.com" target="_blank" rel="noreferrer"> <img 
+src="https://github.com/Star007-A/Sheeraz/assets/80614763/9c6cf963-6dda-4d9f-9e41-80c84ec9a767" alt="MS Excel" width="40" height="40"/> </a>  </p>
+
+
 
 
