@@ -6,6 +6,6 @@
 ✨ My Strength is creating insightful and creative interactive dashboards which contribute's to top management, to understand complex data in the easiest manner. So, they can effectively take business growth decisions.
 
 
-
+#Connect with me:
 [![linkedin](https://github.com/Star007-A/Sheeraz/assets/80614763/d88435bc-50a4-4c3c-9d61-c87f540af647)](https://www.linkedin.com/in/sheeraz-adil-1257b6101/)
 
